@@ -1,0 +1,6 @@
+rendeer cart data on screen
+change quantity (optional)
+
+make profile page more beautiful
+
+loading and error display
